@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: fasterblockplacement
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: fasterblockplacement
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2024-05-26T19:53:02+0200
+MixinConfigs: fasterblockplacement.mixins.json
+

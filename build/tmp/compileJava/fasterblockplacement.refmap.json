@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "mod/germanbucket/fasterblockplacement/mixin/MinecraftMixin": {
+      "startUseItem": "Lnet/minecraft/client/Minecraft;m_91277_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "mod/germanbucket/fasterblockplacement/mixin/MinecraftMixin": {
+        "startUseItem": "Lnet/minecraft/client/Minecraft;m_91277_()V"
+      }
+    }
+  }
+}
